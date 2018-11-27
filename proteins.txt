@@ -1,6 +1,13 @@
 egg
 milk
+<<<<<<< HEAD
 hair
 steak
 mutton
 wool
+=======
+steak
+chicken
+meat
+hair
+>>>>>>> 210cb7d8186c350cbd0ea4f98cac98f598aa1511
