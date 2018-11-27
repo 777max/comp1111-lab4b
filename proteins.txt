@@ -1,6 +1,6 @@
 egg
 milk
-steak111
-chichen222
-meat333
+steak
+chicken
+meat
 hair
