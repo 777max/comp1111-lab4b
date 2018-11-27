@@ -1,3 +1,6 @@
 egg
 milk
+steak
+chicken
+meat
 hair
