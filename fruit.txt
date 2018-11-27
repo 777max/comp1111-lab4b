@@ -1,6 +1,6 @@
 banana
 apple
 orange
-bananalll
-watermelonlll
-peachlll
+banana
+watermelon
+peach
