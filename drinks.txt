@@ -1,6 +1,6 @@
 water
 tea
 coke
-black teaaaa
-green teaaaa
-spriteeee
+black tea
+green tea
+sprite
