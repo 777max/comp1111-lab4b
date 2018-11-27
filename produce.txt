@@ -1,0 +1,6 @@
+computer
+phone
+earphone
+hand
+nose
+foot
