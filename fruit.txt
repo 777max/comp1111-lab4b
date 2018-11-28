@@ -1,6 +1,9 @@
 banana
 apple
-orange
+cherry
 banana
 watermelon
 peach
+papaya
+longan
+plum

@@ -1,3 +1,7 @@
 cookie
 waffle
 cake
+kitcup
+peanut
+icecream
+
