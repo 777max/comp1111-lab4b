@@ -1,6 +1,9 @@
 egg
 milk
-steak
+pig meat
 chicken
 meat
 hair
+Wheat
+lotus seed
+soybean

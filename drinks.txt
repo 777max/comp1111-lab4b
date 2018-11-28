@@ -2,5 +2,8 @@ water
 tea
 coke
 black tea
-green tea
+red tea
 sprite
+apple juice
+watermelon juice
+banana milk
