@@ -1,6 +1,9 @@
 computer
 phone
 earphone
-hand
-nose
-foot
+coffee maker
+fridge
+mouse
+tank
+plane
+car
