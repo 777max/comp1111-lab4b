@@ -1,5 +1,13 @@
 egg
 milk
+hair
+steak
+mutton
+wool
+steak
+chicken
+meat
+hair
 pig meat
 chicken
 meat
